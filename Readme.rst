@@ -1,4 +1,4 @@
-hoc.vim
+nmodl.vim
 =======
 
 Syntax file for `nmodl <https://www.neuron.yale.edu/neuron/static/docs/help/neuron/nmodl/nmodl.html>`__. It's the language used in the `NEURON simulator <http://neuron.yale.edu/neuron/>`__ to add new components.
