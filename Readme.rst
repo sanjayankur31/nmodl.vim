@@ -15,5 +15,5 @@ At the end of your :code:`vimrc` file, add:
 
 .. code:: vim
 
-    au BufRead,BufNewFile *.hoc set filetype=hoc
+    au BufRead,BufNewFile *.nmodl set filetype=nmodl
 
