@@ -7,7 +7,6 @@ if exists("b:current_syntax")
     finish
 endif
 
-echom "Loading NMODL Vim syntax"
 setlocal foldmethod=syntax
 
 let b:current_syntax = "NMODL"
