@@ -38,6 +38,7 @@ syntax keyword NMODLFix  TODO FIXME XXX NOTE
 
 " General matches
 syntax match NMODLComment "\v:.*$" contains=NMODLFix
+syntax match NMODLComment "\v\?.*$" contains=NMODLFix
 
 " Match DE solver methods
 syntax match NMODLDESolver "cnexp" 
@@ -49,7 +50,6 @@ syntax match NMODLOperator "\v\*"
 syntax match NMODLOperator "\v/"
 syntax match NMODLOperator "\v\+"
 syntax match NMODLOperator "\v-"
-syntax match NMODLOperator "\v\?"
 syntax match NMODLOperator "\v\*\="
 syntax match NMODLOperator "\v/\="
 syntax match NMODLOperator "\v\+\="
