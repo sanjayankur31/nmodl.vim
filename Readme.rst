@@ -5,6 +5,8 @@ Syntax file for `nmodl <https://www.neuron.yale.edu/neuron/static/docs/help/neur
 
 Taken from https://github.com/achilleas-k/vimconfig/blob/master/syntax/nmodl.vim. Feel free to update/imporve it. Pull requests welcome.
 
+Please see https://github.com/alkino/vim-mod-syntax, which looks like a more complete syntax plugin for nmodl files.
+
 
 Installation
 ------------
